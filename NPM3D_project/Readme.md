@@ -1,6 +1,10 @@
 
 ***************************
 
+**Review of the paper : 3D deep Distinctive 3D local deep descriptors
+by Fabio Poiesi, Davide Boscaini**
+published in 	IEEE International Conference on Pattern Recognition 2020 
+
 This zip file contains content (code + report) for the NPM3D project.
 
 The files in .py are codes for the 5 demos (takes as input a pair of files in Input_data and produces a pair of files in Output_data
